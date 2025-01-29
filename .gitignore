@@ -1,0 +1,5 @@
+.venv
+
+audio_result/*
+
+edge_tts_voices.json
